@@ -1,0 +1,29 @@
+Las características de una motocicleta de enduro, están condicionadas por las disciplinas de enduro, motocross y trial. La parte ciclo de una moto de enduro es similar a la de cross, con modificaciones en suspensiones, caja de cambios y encendido con salida de luces. Las enduro son motocicletas homologadas para uso urbano, a diferencia de las de cross, que son de uso exclusivo de recintos cerrados. Respecto a la parte ciclo, al trial no se le asemeja en absoluto, pero sí en el uso y respuestas del motor. Son motos en las que su máxima potencia se entrega a bajas y medias revoluciones, que son necesarias para afrontar los distintos obstáculos tales como subidas pedregosas, escalones de rocas, troncos, etc.
+
+
+== Tipos de motores ==
+Las motos enduro son motos obligatoriamente de una cilindrada mayor a 125 2 tiempos o 250 4 tiempos.
+Son usadas en esta disciplina dos tipos de motores: de 2 y 4 tiempos.
+
+La diferencia entre ambos es mucha, tanto en su forma de entregar la potencia, como en su mantenimiento y costes.
+Las dos tiempos, 2T: Son motores más rabiosos y ligeros aunque algo obsoletos con una respuesta al acelerador más brusca. Este tipo de motor pocos cambios ha recibido desde su creación, con las primeras motos, con lo que queda contrastados que su rendimiento es óptimo, pues apenas se han añadido cambios en ellos. Su sistema de funcionamiento es sumamente sencillo. Usan gasolina con mezcla al 2% de aceite, por lo que la misma gasolina mezclada con el aceite, lubrican el cilindro y pistón lo que causa el característico exceso de humo y contaminación . Las cilindradas de las 2T de enduro modernas son: 50cc, 125cc, y 200cc. Actualmente se está implantando el arranque eléctrico, y existen estudios sobre incorporar inyección a estos motores de carburación, para superar las próximas normativas de contaminación "EURO".
+Su mantenimiento en el motor se reduce a un cambio de pistón y segmentos cada 10 000 o más kilómetros.
+
+Las cuatro tiempos, 4T: Los más modernos lo que permite las cilindradas más grandes su respuesta al acelerador es más progresiva que el 2T, dotando a este motor de más bajos, con lo que para el enduro, en muchas ocasiones, proporciona una ayuda extra. Por el contrario tiene su mayor peso y complejidad en el motor. Son motores de normalmente 4 válvulas, dos de admisión y dos de escape, simple árbol de levas, aunque el doble árbol se comience a implantar. Contienen cadena de distribución. Principalmente son alimentadas por carburador, aunque el uso de inyección ya se está expandiendo a todas las marcas. Actualmente ya hay varios modelos a inyección en el mercado. Actualmente las cilindradas de las enduros 4T modernas son: 125cc, 200cc, 250cc, 350cc, 450cc y 650cc.
+Su mantenimiento en el motor consta de cambio de aceite del cárter cada 3.000 km. aproximadamente y reglaje de válvulas sobre los 10 000 km. El cambio de pistón y segmentos puede no llegar hasta los 10 000 km, dependiendo de la dureza de su uso.
+El mayor problema de estos motores es que sus averías son más caras y complejas que en un 2T.
+
+
+== Variantes ==
+En competición son bastantes las variantes derivadas del enduro. Estas serían evidentemente el enduro, enduro extremo, cross country, enduro indoor.
+Enduro: El trazado consta aproximadamente de 50 kilómetros, en las que los pilotos darán dos o tres vueltas al recorrido. La carrera consta de dos partes. La zona de montaña, en la que forman parte senderos, pistas, trialeras, pozas, bajadas. En las que hay un máximo de tiempo que un piloto puede tardar entre un control de paso y otro. Si llegas antes, tendrás tiempo de descanso, pero si llegas más tarde, serás penalizado en función de los minutos perdidos. Una parte del recorrido tendrá un tramo cronometrado. Este suele ser una campa marcada con cintas, con alguna dificultad como cortados, saltos o alguna pendiente, en la que se tomarán tiempos. Esta zona es importantísima, al hacer buenos cronos, se está arriba aunque en la zona de montaña no se sea el primero.
+Enduro extremo: Es un circuito preparado en el que se añaden obstáculos difíciles en un corto espacio. Saltos, pozas, rocas, troncos. Se toma el tiempo por vuelta.
+Cross country: Circuito mezcla entre enduro y moto cross. Más largo que el de moto cross, y con alguna dificultad. Normalmente se realizan 2 tandas de una hora cada una, y en ellas cuentan las vueltas dadas por cada piloto. Es un tipo de resistencia.
+Enduro indoor: Similar al enduro extremo, pero con más zonas de respiro, y siempre realizada en pabellones, velódromos. Lugares que no sean al aire libre.
+La gran mayoría de los aficionados practican el enduro de forma no competitiva, a través de paseos y rutas por caminos de montaña, a velocidad moderada y con absoluto respeto por la naturaleza. A pesar de ello, actualmente la práctica del enduro por parte de los aficionados es muy dura. Las legislaciones actuales son muy prohibitivas y dan poco margen para su libre uso. Cada comunidad aplica de formas más o menos duras leyes, pero todas tienen su legislación.
+
+
+== Véase también ==
+Enduro
+Motocross
+Motocicleta de cross

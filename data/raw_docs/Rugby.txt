@@ -1,0 +1,365 @@
+El rugby,​ también llamado fútbol rugby (o fútbol según las reglas de Rugby), es un deporte de evasión y contacto —con excepción de la modalidad de rugby sin contacto—, en equipo, nacido en Inglaterra. Fue en ese país donde tomó su nombre a partir de las reglas del fútbol elaboradas en el colegio de la ciudad de Rugby (Rugby School) en el siglo XIX.
+El rugby se practica a nivel internacional en todos los continentes, aunque ha alcanzado un importante grado de desarrollo en las naciones que conforman las islas británicas (Escocia, Gales, Inglaterra, Irlanda e Irlanda del Norte), así como en Argentina, Australia, Fiyi, Francia, Italia, Japón, Nueva Zelanda, Samoa, Sudáfrica, Tonga y Uruguay.
+En otros países tiene variados grados de popularidad y competitividad internacional. En África también es popular, por influencia inglesa, en Namibia, Kenia y Zimbabue, y por influencia francesa en Túnez, Costa de Marfil, Madagascar y Marruecos. En América se practica principalmente en Argentina—participante del Rugby Championship—, donde tiene gran arraigo y cuya selección ha logrado importantes logros internacionales; asimismo tiene cierta popularidad en otros países americanos, como Brasil, Canadá, Uruguay, Chile y Estados Unidos. En Asia, el equipo más destacado es el de Japón. En el resto de Europa, se destaca Italia, que participa en el Torneo de las Seis Naciones. Igualmente está difundido en otros países del continente europeo, sobre todo en Portugal, España y en países del este de Europa, como Rumania, Georgia o Rusia. En Oceanía, por influencia australiana y neozelandesa, es un deporte muy popular en Fiyi, Tonga y Samoa, cuna de jugadores destacados en el ámbito internacional.
+A nivel internacional, está regulado por la World Rugby, asociación federativa que cuenta con 118 miembros (plenos y asociados).​ Luego de participar en cuatro ediciones de los Juegos Olímpicos a comienzos del siglo XX, el rugby fue reincorporado a los deportes olímpicos a partir de Río 2016 en su modalidad de rugby 7.​
+Desde los orígenes mismos del rugby y el fútbol actual, a mediados del siglo XIX, cada uno se definió como el alter ego del otro: fuerza contra habilidad; juego limpio contra juego desleal, etcétera.​ Un antiguo dicho británico dice que: "el fútbol es un juego de caballeros jugado por villanos y el rugby es un juego de villanos jugado por caballeros".​ En el rugby es característico el respeto a las reglas que deben practicar tanto los jugadores como el público. Las  decisiones del árbitro rara vez son discutidas por los jugadores. Además, se fomenta la sociabilidad, dándose generalmente entre compañeros de equipos y oponentes una cordial reunión después de los partidos, denominada tercer tiempo, junto con los árbitros, entrenadores y parte del público.
+
+
+== Historia ==
+
+El rugby moderno, al igual que el fútbol moderno, es una evolución directa del fútbol medieval británico, también llamado en español fútbol de carnaval (en inglés "mob football", equivalente a fútbol multitudinario), un juego de pelota violento reiteradamente prohibido, de reglas sumamente variables, que se practicaba popularmente en las islas británicas durante el medievo europeo, en el que se usaban tanto las manos como los pies, así como la fuerza para detener a los competidores.[cita requerida]
+La tradición atribuye la invención del rugby a William Webb Ellis, un estudiante de teología del Colegio de Rugby​ y el trofeo que se entrega a los ganadores de la Copa del Mundo de Rugby lleva su nombre. El hecho es recordado en una lápida mural de la public school de Rugby.
+
+
+== Leyes del juego ==
+
+Las Leyes del juego de rugby son dictadas por World Rugby (International Rugby Board o IRB hasta 2014). Su cuerpo central son las cuatro leyes que regulan el juego: el terreno, la pelota, número de jugadores, vestimenta, tiempo, oficiales, modo de jugar, ventaja, modo de marcar, juego sucio, off side (fuera de juego) y on side (en juego), pase forward (pase hacia delante o "avant"), salidas, pelota al suelo sin tackle (placaje), tackle (placaje): portador de la pelota derribado, ruck, maul, mark, touch y line-out, scrum (melé), penales y free kicks, tries (ensayos) y drops.​
+Las Leyes del juego de rugby también están integradas por un Prólogo, una lista de definiciones de los términos utilizados en las reglas, un apartado de variaciones para menores de 19 años, otro apartado para "seven a side" (variante de siete jugadores por bando), señales de los árbitros, y un extracto de la Regulación 35, sobre vestimenta de los jugadores. La publicación oficial de World Rugby, asimismo, está acompañada de un Documento del juego, complementario de las leyes, que "cubre los principios básicos del rugby.
+En 2009 la IRB aprobó 10 modificaciones sustanciales al reglamento, las Experimental Law Variations (Variaciones experimentales de las leyes), conocidas por su sigla en inglés, ELV, que fueron puestas en práctica en todos los torneos oficiales del mundo entre el 1 de agosto de 2008 y el 1 de junio de 2009.​​
+
+
+=== Diferencias terminológicas en los países de habla hispana ===
+
+En español existen dos traducciones del reglamento:
+
+La publicada por la International Rugby Board (IRB) en su sitio oficial,​ utilizada por la Confederación Sudamericana de Rugby, la Unión Argentina de Rugby, la Unión de Rugby del Uruguay, la Federación de Rugby de Chile, la Selección de rugby de Paraguay, la Federación Peruana de Rugby, la Selección de rugby de Colombia, la Selección de rugby de México, la Selección de rugby de Venezuela y la Federación de Rugby de Costa Rica;
+La publicada por la Federación española de rugby (FER) y utilizada por esa entidad.​
+Como las dos traducciones son distintas, la terminología reglamentaria en español varía según se trate de algún país hispanoamericano o España. Algunos de los principales términos en que se registran diferencias son los siguientes, según se trate de Hispanoamérica o España: try/ensayo, conversión/transformación, penal/transformación de golpe, scrum/melé, tackle/placaje, hooker/talonador, fullback/zaguero, ala/flanker, wing/ala, etc.
+Sobre la forma de denominar en español al jugador practicante del deporte, el Diccionario panhispánico de dudas informa que «se usa con frecuencia en los países del Río de la Plata la forma rugbier con el sufijo -er propio del inglés para crear este tipo de derivados (aunque en inglés se usa, en este caso, la expresión rugby player). La Real Academia Española recoge en su diccionario "rugbi" como adaptación gráfica al español del término inglés y es el término que aconseja usar; también recomienda la expresión rugbista para referirse al jugador, utilizando el sufijo -ista (como en futbolista, golfista, tenista, etc)».​
+
+
+== El juego ==
+
+En el rugby se enfrentan dos equipos de quince jugadores cada equipo (aunque hay una variación para un juego de siete). El campo de juego tiene forma rectangular y es de césped (aunque puede ser de arena, tierra, nieve o césped artificial). Sus medidas son de un máximo de 95 metros de largo y 65 de ancho. Al campo de juego se le suman dos áreas, la zona de anotación (o in-goal), en cada uno de los extremos, de no más de 22 metros cada una, destinada a apoyar la pelota para obtener el try o ensayo, principal anotación del juego.​
+
+En los dos extremos del campo, en el centro de la línea de anotación, se encuentran instalados dos postes separados entre sí por 5,6 metros y unidos por un travesaño situado a 3 metros de altura. Los postes deben tener un mínimo de 3,4 metros de alto, lo que le da al conjunto de los tres palos una forma de H.​
+El balón de rugby es de forma ovalada, está construida con cuatro gajos de cuero o material sintético parecido y pesa algo menos de medio kilo. Los partidos, en la modalidad de quince jugadores, duran ochenta minutos, divididos en dos tiempos iguales (setenta minutos para las categorías juveniles menores de 19 años).​
+
+
+=== Terreno de juego ===
+Un campo de juego es rectangular, y no debe exceder de 100 metros de largo por 70 metros de ancho.​ Las líneas laterales (denominadas "líneas de touch") del campo de juego no forman parte de este. A continuación de cada uno de los lados menores del rectángulo hay una zona de anotación (o de ensayo), denominada "in-goal", con una longitud de entre 10 y 22 m. Entre el campo de juego y estas zonas de anotación hay una línea continua, denominada "línea de goal" (de marca, o de anotación, o de gol), que es parte de las últimas y en cuyo centro se ubican los postes de gol. Estos postes verticales están separados entre sí por una distancia de 5,6 m y unidos a 3 m de altura por un travesaño. La altura de los postes depende del gusto del equipo local, aunque en cualquier caso debe sobrepasar los 3,4 metros. El conjunto del campo de juego y las áreas de gol se denomina "área de juego". El área de juego, las líneas no incluidas en ella (las líneas de touch y las líneas laterales y finales que limitan el in-goal, denominadas líneas de touch in-goal y líneas de pelota muerta respectivamente), y un área perimetral de 5 m de ancho alrededor del conjunto anterior, se denomina "terreno de juego".
+En mitad del campo, paralela a las líneas de gol, se ubica una línea continua denominada "línea de mitad de cancha". En el centro de esta, una línea perpendicular marca el centro del campo. A 10 m a cada lado de la línea de mitad de campo existe una línea discontinua paralela, la cual se utiliza como referencia para las salidas, ya que el balón debe superar dicha línea para considerarse en juego. De cada lado hay otra línea continua entre ambas líneas de banda, paralela a la línea de gol y a 22 m de esta hacia el centro del campo. El espacio delimitado por esta línea y la de gol (excluyendo a esta) se denomina "las 22" o "zona de 22". Entre ambas líneas de banda, a 5 m de las líneas de gol y paralelas a esta hay líneas discontinuas. Finalmente, hay líneas discontinuas entre las anteriores, paralelas a las líneas laterales, a los 5 y 15 m de estas. Estas líneas señalan los límites para la posición del jugador más avanzado y más retrasado en los saques de banda.
+
+
+=== Posiciones ===
+
+En el rugby, los jugadores de cada equipo se dividen en dos grandes grupos: los forwards o delanteros y los backs o línea 3/4.
+Los forwards o delanteros, también referidos como "pack de forwards", son ocho jugadores, ubicados en la zona delantera del equipo. En general son los jugadores más grandes y pesados del equipo. Tienen como función específica disputar el scrum (melé) y los saques de lateral (touch). Los forwards se ubican en tres líneas: la primera línea está integrada por dos pilares (1 y 3) y un hooker o talonador (2) en el medio; la segunda línea está integrada por dos jugadores denominados con ese nombre (4 y 5); la tercera línea está integrada por tres jugadores, con el Número 8 (rugby) en el medio, flanqueado por dos flankers (6 y 7).
+Los backs, zagueros o defensores, son siete jugadores que se ubican en la zona posterior del equipo. En general son los jugadores más ágiles y rápidos del equipo. Cinco backs forman "la línea" o los "tres cuartos", ubicados en diagonal -con el fin de lograr velocidad en el avance- sucesivamente a partir del medio scrum o medio melé (9), el apertura (10), dos centros (12 y 13) y un wing -o ala en España- (14). En el extremo opuesto de la línea se ubica otro ala (11) y detrás al centro se ubica el fullback o zaguero (15).
+
+
+=== Anotaciones ===
+Fuente: Reglas del juego.​
+
+El objetivo fundamental consiste en obtener una mayor cantidad de puntos que el adversario. Los puntos se pueden obtener del siguiente modo:
+
+Try o ensayo (5 puntos): es la anotación más importante, y consiste en apoyar el balón con las manos, brazos o pecho, en la "zona de anotación" (o el in-goal) del adversario.
+Try penal o ensayo de castigo (7 puntos): es una sanción que concede el árbitro, cuando un try es inminente y el equipo defensor comete una infracción con la evidente intención de impedirlo.
+Drop, sobre-pique o puntapié de botepronto (3 puntos): el drop o botepronto es un tipo de patada que se realiza dejando caer la pelota al suelo y pateándola inmediatamente después, y casi simultáneamente con el bote. Un tanto de drop se concreta mediante esa patada, sin que el juego esté interrumpido y siempre que pase entre los postes, al igual que la conversión.
+Goal de un penal, simplemente penal, o conversión de un puntapié de castigo (3 puntos): ciertas infracciones graves se sancionan con un penal; en ese caso, el equipo favorecido tiene la opción de realizar una patada hacia los postes desde el lugar en que se cometió, concretándose si se produce de manera igual a la conversión.
+Conversión o transformación (2 puntos): conseguido el ensayo (try, pero no el try penal), el bando que lo obtuvo tiene derecho a patear el balón hacia los postes de goal, a la altura en la que se marcó el mismo, obteniendo la conversión (transformación) si la pelota pasa entre ambos y por encima del travesaño.
+
+
+=== Juego general ===
+Fuente: Leyes del juego​
+Un jugador, siempre que se encuentre en juego (on side), puede:
+
+Correr con la pelota en las manos evadiendo a los jugadores del equipo defensor.
+Dar pases hacia atrás o el costado (el pase adelante está prohibido si se realiza con las manos).
+Patear la pelota.
+Únicamente está permitido bloquear al oponente que lleva la pelota, no se puede bloquear a un oponente que no lleva la pelota consigo, a diferencia del fútbol americano.
+Intentar detener al portador de la pelota placándolo o derribándolo a tierra (tackle).
+Si porta la pelota, intentar evitar que lo detengan o derriben alejando a los rivales con un brazo extendido y la mano abierta.
+Ir al suelo con la pelota o sobre ella, siempre que la disponga inmediatamente.
+Participar en las formaciones fijas o espontáneas en que se disputa la pelota, que se explican más adelante (scrum, line out, ruck y maul).
+
+
+=== Tackle (placaje) ===
+
+Una de las reglas fundamentales del rugby es el llamado tackle en el reglamento publicado por la WR, regulado en la ley 15:
+
+ 
+
+Las leyes del juego hacen especial hincapié en evitar y sancionar severamente el juego peligroso, aun cuando no sea intencional. El tackle no puede realizarse mediante un golpe directo con el hombro o un brazo rígido. La Ley 10(4)(e), prohíbe explícitamente el tackle alto, que es aquel por el cual el jugador que lleva la pelota es tomado por encima de la línea de los hombros, aun cuando el tackle se haya iniciado por debajo. La World Rugby tiene una política de tolerancia cero respecto del contacto con la zona de la cabeza.​
+A partir del 3 de enero de 2017 la WR estableció una serie de medidas y definiciones para reducir la discrecionalidad y aumentar las sanciones ante los tackles altos.​​ En las nuevas medidas la WR define dos tipos precisos de tackle alto: el "tackle temerario" (reckless tackle) y el "tackle accidental". Se considera "tackle temerario" cuando el jugador sabía o debería haber sabido que existía el riesgo de contacto con la cabeza y aun así siguió adelante y debe ser sancionado como mínimo con tarjeta amarilla (exclusión de la cancha durante un tiempo). Cuando el contacto con la cabeza sea accidental (tackle accidental), corresponde como mínimo cobrar penal.​​
+Simultáneamente la WR definió una serie de normas educativas a tener en cuenta por todas las personas involucradas en el juego:​​
+
+"Educar que los tackles ilegales no están necesariamente definidos por donde comienzan ya que pueden pasar de una posición legal a hacer contacto con el cuello/cabeza";
+"Educar que estar agazapado a la altura de la cintura al taclear y entrar en contacto es la posición ideal para prevenir las lesiones";
+"Promover las mejores técnicas posibles para proteger la cabeza– se obtendrán consejos de entrenadores de defensa de élite para identificar la mejor técnica de tackle y la mejor posición de impacto para el portador del balón, incluyendo guías para el tackle doble y triple".
+
+
+=== Puesta de la pelota en juego y reposición ===
+El juego se inicia con un puntapié de salida, que debe efectuarse de sobrepique, realizado desde el centro del campo.​ Todos los jugadores del equipo que efectúa la salida deben ubicarse por detrás de la pelota hasta que esta haya sido pateada, y los rivales a diez metros de distancia. El balón debe superar la distancia de diez metros sin salir del campo​ y botar o ser atrapado dentro de él.​ El juego general ha comenzado, y continuará hasta que se produzca una interrupción. El juego se interrumpe cuando la pelota ha quedado “muerta”: la pelota ha salido de los límites del área de juego, se ha marcado un tanto, se ha producido una anulada, se ha producido una infracción sin ventaja para el equipo no infractor, un jugador ha pedido una marca (mark), o se ha producido otra interrupción en el juego.
+El silbato del árbitro marca los puntapiés de salida (no los de reinicio) y las pelotas muertas. El árbitro hace sonar su silbato también para indicar que ha detenido la cuenta del tiempo, por ejemplo para que un jugador lesionado sea atendido o para dar indicaciones al capitán de un equipo, y que la ha reiniciado.
+Cuando el tiempo se agota, el juego continúa hasta que se haya producido una pelota muerta, salvo que esto fuera como consecuencia de una infracción castigada con penal, en cuyo caso deberá continuar bajo el mismo principio. El reinicio del juego en el segundo tiempo se produce también con un puntapié de salida, a cargo del equipo que no efectuó el del comienzo del partido.
+
+Si la pelota sale de los límites del campo de juego tocando el suelo o cualquier objeto o persona fuera del campo, por las líneas laterales entre ambas líneas de gol (“líneas de touch”), el juego se reinicia con un line out.
+Si la pelota sale de los límites del campo de juego por la línea final (“línea de pelota muerta”) o las líneas laterales entre la de gol y la de pelota muerta (“líneas de touch in goal”),
+Si fue introducida al in goal por los atacantes, los defensores efectuarán un puntapié de reinicio en la línea de 22 metros (o en cualquier lugar detrás de ella), a menos que los atacantes hubieran pateado la pelota y esta hubiese salido sin botar en el campo de juego, en cuyo caso los defensores podrán escoger entre una salida de 22 metros o un scrum en el punto donde la pelota fue pateada;
+Si fue introducida al ingoal y sacada tras las líneas por los defensores, el juego se reiniciará con un scrum a cinco metros de la línea de gol.
+Si se ha marcado un tanto, el equipo que no marcó efectúa un puntapié de reinicio​ desde el centro del campo.
+Una anulada se produce cuando un jugador defensor apoya la pelota en su in-goal.
+Si fue introducida al in-goal por un atacante, el equipo defensor efectuará un puntapié de reinicio desde la línea de 22 metros.
+Si fue introducida por un defensor, el equipo atacante arrojará la pelota a un scrum en la línea de 5 metros.
+Si se ha producido una infracción, y el árbitro determina que el equipo no infractor no pudo obtener ventaja territorial o táctica al continuar jugando, el juego debe reiniciarse con la ejecución de la penalidad correspondiente:
+Si se trata de una infracción leve, por ejemplo que el jugador que portaba la pelota la ha dejado caer adelante (knock-on) o la ha pasado con las manos adelante (“pase forward”), el juego se reiniciará con un scrum;
+Si se trata de una infracción de mediana gravedad, por ejemplo que un equipo se ha adelantado a la orden del árbitro para entrar en el scrum, o ha demorado el juego, o ha cerrado la distancia entre hileras en un line out, el juego se reanudará con un puntapié libre o free kick; todos los jugadores del equipo infractor deben alejarse hacia su campo hasta una línea paralela a la de goal a diez metros de distancia del punto donde se efectuará el puntapié, so pena de ser castigados con un nuevo free kick diez metros campo arriba;
+Si se trata de una infracción seria (jugador fuera de juego u off side, juego sucio o peligroso, inconducta), el juego se reiniciará con un puntapié penal, al que se aplica la misma regla de diez metros que para el puntapié libre; en lugar de patear un free kick o un penal, el equipo no infractor puede escoger arrojar la pelota a un scrum en el lugar de la infracción.
+Un jugador defensor situado detrás de su línea de 22 metros que atrapa limpiamente una pelota pateada por un atacante antes de que esta toque el suelo puede “pedir una marca” gritando “¡mark!” al momento de recibir el balón; el árbitro le concede un puntapié libre en la marca, que tiene las mismas características de un free kick;
+El juego puede interrumpirse por otras razones imprevistas: la pelota toca al árbitro y alguno de los equipos obtiene ventaja de ello, hay un jugador lesionado en el suelo y el juego se acerca a su posición de modo que pueda haber peligro, resulta imposible resolver una situación de disputa (scrum, ruck o maul) porque la pelota ha quedado inaccesible para ambos equipos, el árbitro no puede determinar si la pelota ha sido apoyada en el in-goal o quién la ha apoyado, el balón se deteriora de modo que no puede utilizarse, etc. En esos casos, resuelta la circunstancia que provocó la interrupción, el juego continúa con un scrum al que arroja la pelota el equipo que estaba en posesión de ella antes de la interrupción; en su defecto, el último en jugarla; y en su defecto, el atacante.
+
+
+=== Line out ===
+Cuando el balón, o el jugador que lo lleva, salen del campo por la línea de touch, el juego se reinicia mediante un saque de banda llamado line out que debe arrojarse recto y superando la línea ubicada a cinco metros campo adentro del touch entre dos hileras de jugadores, una de cada equipo y separadas por una distancia de un metro. Los jugadores deben saltar para obtener la pelota, pudiendo ser impulsados y sostenidos por sus compañeros. El lanzamiento le corresponde al equipo que no la envió afuera, salvo que haya sido consecuencia de un penal o que la pelota haya sido pateada desde campo propio y haya salido detrás de la línea de 22 yardas contrarias (regla 50-22), en cuyo caso debe lanzar el equipo que pateó. El equipo que lanza la pelota decide también cuántos jugadores va a haber en la hilera (de 2 a 14), mientras que el otro equipo puede tener menos pero no más. Todos los demás jugadores, excepto el lanzador, un opuesto al lanzador del equipo rival, y un receptor por cada equipo, deben alejarse diez metros hacia su campo de la línea perpendicular al touch por donde se arrojará la pelota.​
+La posición en la que se efectuará el tiro no es necesariamente aquella en que el balón cruzó la línea de touch. Si el balón fue pateado por un jugador por delante de su línea de 22 metros, o por detrás de ella cuando es el equipo defensor lo introdujo en su zona de 22 metros, entonces el lanzamiento debe efectuarse en línea con el lugar desde donde se pateó. En cualquier caso, el equipo que debe reponer la pelota en juego puede decidir efectuar un “tiro rápido” en cualquier lugar entre su línea de goal y la línea en que debe formarse el line out; pero para ello deben cumplirse ciertas condiciones: que se utilice el mismo balón que salió del campo, que no haya sido tocado por nadie excepto el jugador que lanza (y eventualmente por el jugador rival que salió fuera del campo con el balón), y que no haya principiado la formación del line out. En el tiro rápido no se requiere que el balón sea arrojado paralelamente a las líneas de goal: puede enviarse oblicuamente hacia la línea de goal del lanzador, pero debe superar la línea de cinco metros paralela al touch.​
+La pelota no debe arrojarse intencionalmente con las manos al touch. Esta acción es considerada juego sucio y castigada con un penal desde el lugar del punto de la cancha.​
+
+
+=== Scrum ===
+
+El scrum o la melé, una de las formaciones más reconocibles del rugby, es una puja frente a frente, de un grupo de cada equipo formado por un máximo de ocho y un mínimo de tres jugadores en tres líneas,​ que se enfrentan agazapados y asidos entre sí, para comenzar a empujar con el fin de obtener el balón que ha sido lanzado en medio de ellos y sin tocarlo con la mano. El grupo que haya obtenido el balón, debe sacarlo sin tocarlo con la mano por detrás de la formación, donde lo tomará un jugador (usualmente, pero no siempre, el "medio melé" o "medio scrum") y continuará el juego.​
+Tanto en el saque de banda cuando el balón sale fuera (line out) como en el scrum (la melé), el sentido de las reglas es que exista disputa por la pelota. Esa es la diferencia con las infracciones mayores, que se penalizan con una patada de castigo (tiro a los postes, tiro afuera o puesta en juego), en la que el equipo infractor no puede intervenir.​
+
+
+=== Rucks y mauls ===
+Los rucks y los mauls son las formaciones grupales de lucha por la pelota que forman ambos equipos durante el desarrollo del juego. La diferencia entre ambos estriba en si la pelota se encuentra en poder de uno de los jugadores ("maul"), o si se encuentra en el suelo ("ruck").​
+El maul (ley 17) es una formación esencialmente ofensiva. Se produce cuando un jugador que lleva la pelota es asido por uno o más defensores, y hay uno o más compañeros del portador de la pelota asidos a este, todos ellos sobre sus pies (como mínimo deben ser dos atacantes y un defensor). Sus reglas son complejas, pero básicamente no debe dejar de moverse hacia la meta y con los defensores retrocediendo; si es detenido durante cinco segundos, algún jugador atacante debe abandonar el maul con la pelota o pasarla; en caso contrario, la acción del equipo atacante es castigada con un scrum a favor del defensor. Con un maul puede realizarse un try.​
+En la reglamentación vigente hasta agosto de 2008, esta formación no se podía derrumbar, por ser considerado juego peligroso, sancionándose en ese caso con penal. Entre el 1 de agosto de 2008 y el 1 de junio de 2009, se pusieron en vigencia trece Variaciones Experimentales Reglamentarias (ELVs), entre las que se incluyó una que permitía derrumbar el maul. Sin embargo, luego de ser examinadas durante la temporada 2008/2009 la IRB decidió no confirmar esta variación, volviendo a estar prohibido derribar el maul a partir del 1 de junio de 2009.​
+
+El ruck (ley 16) es una formación más orientada a la disputa de la pelota, pero cuando es ejecutada en serie, también se convierte en una herramienta ofensiva. El ruck se forma con la pelota en el suelo y con al menos un jugador de cada equipo chocando y pujando por la pelota, pero habitualmente son varios. El ruck lo forman los jugadores parados y enfrentados con sus contrincantes, que deben "ruquear" la pelota, esto es tratar de obtenerla. El ruck suele formarse cuando un jugador con la pelota es derribado; sus compañeros vienen entonces a proteger la posesión del balón, pasando un pie por encima de este, tomando así posesión de la pelota y obligando al equipo contrario a pasar completamente por arriba del jugador derribado y correr a los jugadores contrarios para tomar la posición de la pelota. No se puede entrar lateralmente a esta formación ya que sería sancionado con un penal.​
+Cuando se forman un ruck o un maul, se forman también dos líneas imaginarias de fuera de juego. Estas líneas, paralelas a las de gol, pasan por detrás del pie más retrasado del último jugador de cada bando en el ruck o maul y van de una línea lateral a otra línea lateral. Cualquier jugador que esté delante de su respectiva línea de fuera de juego y no forme parte del ruck o maul se considera fuera de juego y puede ser penalizado si interviene directa o indirectamente en el juego. Al ruck y al maul solo se puede ingresar desde atrás de dichas líneas imaginarias.​
+
+
+=== Infracciones ===
+El fuera de juego (offside) es la infracción más común durante un encuentro. Si la penalización se otorga a una distancia razonable para el pateador del equipo no infractor, este puede decidir por patear hacia los postes para obtener tres puntos. El equipo infractor tiene que ubicarse a 10 m de distancia del equipo que patea y no puede hacer ningún movimiento ni ruido, ni siquiera levantar los brazos. Si la falta es convertida (transformada), el juego se reinicia en la línea de centro con un saque del equipo que cometió la infracción. Por el contrario, si la penalización no es convertida (transformada), normalmente se reinicia el encuentro desde los 22 m con una patada de botepronto (drop) del equipo que cometió la infracción; esta patada se llama "salida de 22 metros". Otras penalizaciones frecuentes incluyen juego peligroso, interferencia, no soltar el balón en el suelo, y lanzarse sobre un ruck (montonera en el suelo). El equipo al que se le otorga la falta (pateador) puede reiniciar el juego con un pequeño toque con el pie (pasando la marca) para iniciar una jugada o con una patada a la línea de banda (touch) para obtener un saque de banda. En este saque de banda, el equipo que pateó el balón tiene el derecho de lanzar el balón nuevamente en el line-out. Para infracciones menores (tales como adelantar el pie en el scrum), se otorga un tiro libre o free kick. A diferencia del golpe de castigo (penal), este no puede patearse directamente a los postes para ganar puntos. Además, el equipo infractor puede cargar hacia el balón una vez el pateador haya hecho algún movimiento para patear el balón.​
+
+
+== Variaciones de las leyes ==
+El rugby se ha caracterizado por una evolución dinámica de las leyes del juego. Regularmente se introducen modificaciones que tienen por intención agilizar el juego, hacerlo más atractivo para los espectadores y más seguro para los jugadores, y reducir los márgenes de error en los fallos arbitrales: el rugby ha sido el primer deporte colectivo que ha adoptado la revisión en vídeo de las situaciones de difícil resolución, realizada por un cuarto árbitro a instancias del árbitro principal. En general, las modificaciones suelen probarse primero en un ámbito restringido (en los últimos años, la Universidad de Stellenbosch en Sudáfrica, para luego extenderse a un ámbito mayor; por ejemplo, algún torneo regional importante), para luego generalizarse como “variaciones experimentales”. La IRB analiza el resultado de este proceso, y finalmente se incorporan como leyes permanentes las variaciones experimentales que se hayan evaluado positivamente.[cita requerida]
+
+
+=== Las variaciones reglamentarias de 2009 (ELV) ===
+En el 2008,la IRB aprobó una serie de modificaciones sustanciales al reglamento, conocidas por su sigla en inglés, ELV (Experimental Law Variations, o Variaciones Reglamentarias Experimentales), que se pusieron en práctica en todos los torneos oficiales del mundo entre el 1 de agosto de 2008 y el 1 de junio de 2009.​ Tras ser evaluadas globalmente durante la temporada 2008/2009, el IRB decidió confirmar 10 de las 13 variaciones e incorporarlas definitivamente a las Leyes del Juego, con excepción de las ELV 2, 3 y 6, que permitían derribar el maul y decidir libremente la cantidad de jugadores a colocar en el line out (saque de lateral).​
+Los cambios venían estudiándose desde 2004 y comenzaron a implementarse experimentalmente en 2006 en la universidad sudafricana de Stellenbosch, por lo que son referidas también como las Reglas de Stellenbosch. De las muchas variaciones propuestas y ensayadas, la IRB decidió finalmente experimentar en todo el mundo trece reglas nuevas. De ellas, 10 se incluyeron finalmente en las Leyes del Juego en el 2009.
+
+
+=== Las ELV de 2012 ===
+El 15 de mayo de 2012 la IRB sancionó once nuevas variaciones experimentales generales,​ a ser puestas en práctica a partir del 1 de septiembre de 2012 en los torneos del hemisferio norte, y del 1 de enero de 2013 en los del hemisferio sur, y una exclusivamente para la variante seven a side vigente a partir del 1 de junio de 2012.​
+
+
+=== La ELV de 2013 ===
+Para la temporada 2013-2014 se produjo una modificación en lo referente a la entrada al scrum (ley 20.1 "Formación de un Scrum"), que comenzó a aplicarse al inicio de temporada en cada hemisferio. La variaciòn consiste en reemplazar el tiempo intermedio de la secuencia de entrada de tres tiempos ("cuclillas, tocar, ya") por "tomarse", de modo que los jugadores de las primeras líneas estén efectivamente asidas entre sí y con la primera línea oponente, de modo de proporcionar mayor estabilidad a la formación antes de la introducción de la pelota.​
+
+
+=== A partir de 2017 ===
+La World Rugby decidió implementar a partir del 3 de enero de 2017 una serie de medidas con el fin de aumentar las precauciones para evitar el tackle alto, es decir, el tackle en la que la persona tacleada es tomada o golpeada en la zona del cuello y la cabeza. Para ello, la WR incorporó las figuras del tackle atolondrado (reckless tackle) y del tackle accidental (accidental tackle).​​
+
+
+=== Reglas opcionales para prevenir el COVID-19 ===
+El 28 de mayo de 2020, durante la pandemia del COVID-19 la World Rugby elaboró una serie de reglas opcionales para las uniones nacionales, con el fin de reducir los riesgos de contagio.​ Las reglas fueron elaboradas por un grupo de especialistas que incluyó médicos, bajo la guía de la Organización Mundial de la Salud (OMS).​ Las reglas son opcionales y temporales para ser utilizadas por las uniones nacionales, que deben actuar siempre cumpliendo las normas sanitarias de cada país y con asesoramiento médico.​
+Las diez reglas tienen como objetivo reducir el tiempo de contacto físico entre las personas competidoras y son las siguientes:​
+
+Scrum
+No reiniciar (reset) el scrum. Corresponde un free-kick a favor del equipo que introdujo la pelota.
+Los hookers deben usar un pie de freno para estabilizar el scrum. Sanción: free-kick.
+En caso de penal o free kick no habrá opción para realizar un scrum.
+Si, dentro del in goal, un atacante es sujetado o comete knock on, correspondrá salida de drop desde la línea de in goal.
+Tackle
+Tarjeta naranja en caso de tackle alto. Una vez revisada la acción, si no corresponde tarjeta roja, el tiempo fuera de la cancha será de 15 minutos.
+Se elimina el tackle asfixiante. Se considera tackle y juega el equipo que llevaba la pelota.
+Ruck
+La duración del "juegue" se reduce de 5 segundos a 3 segundos. La sanción es un free kick.
+La sanción por ignorar el "juegue" en rucks, scrums o mauls será un free kick.
+Maul
+Nadie puede sumarse a un maul si no lo integraba desde un inicio. Sanción: free kick.
+El maul solo podrá tener un movimiento de impulso hacia adelante. Sanción: free kick.
+
+
+=== Pruebas globales de leyes 2021/2023 ===
+En 2021, la World Rugby ha establecido una serie de reglas nuevas para ser puestas a prueba durante un año a partir del 1 de agosto de 2021.
+
+Simultáneamente, la World Rugby adoptó una petición de Sanzaar de poner en práctica en el Rugby Championship 2021, de la siguiente regla:
+
+Relacionada con la misma cuestión, en 2022 la World Rugby aprobó la siguiente regla para aplicar a casos de tarjeta roja. Se dispuso que la regla fuera puesta en práctica en el Campeonato Mundial de Rugby Juvenil 2023, a realizarse en la segunda mitad del mes de julio. Hacia junio de 2023 la WR no había resuelto aún si la regla también resultaría de aplicación en la Copa Mundial de Rugby de 2023.
+
+
+== Indumentaria de protección ==
+El rugby es un deporte de intenso contacto físico. Sin embargo, las reglas no permiten el uso de ninguna protección rígida, pues estas podrían causar lesiones a los jugadores. Solo se permiten protecciones acolchadas de hasta 5 mm de espesor en algunas zonas del cuerpo; estas protecciones deben ser aprobadas por la World Rugby.​ Habitualmente se emplean un protector bucal de material siliconado, una camiseta elástica (usada por debajo de la camiseta del equipo) con protecciones para hombros y cuello y a veces también para esternón, costillas, riñones, columna vertebral y bíceps; un casquete blando, destinado sobre todo a reducir el efecto de los golpes en las orejas, y unas calzas cortas o medianas de contención. Se permite el uso de otras protecciones no rígidas y de espesor mínimo para prevenir lesiones, como rodilleras o tobilleras, o en algunos casos el uso de suspensorios para proteger los genitales contra impactos dañinos.
+
+
+== Modalidades de rugby ==
+
+
+=== Rugby 15 o rugby union ===
+
+La versión de este deporte más conocida es la del rugby jugado por equipos de quince jugadores, aunque no es la única. Es lo que se conoce en el mundo anglosajón como rugby union, en referencia a la federación (Union) de clubes que se rigen por normas comunes y que, tradicionalmente, habían sido universitarios o aficionados. Un partido dura 80 minutos, dividido en dos partes de 40 minutos, con un descanso de 15 minutos entre cada tiempo.[cita requerida]
+Sigue el modelo propuesto por William Webb Ellis. Por cada equipo juegan un total de 15 jugadores divididos en dos grupos: forwards o delanteros y backs o tres cuartos. Las denominaciones de los puestos, al igual que el resto de la terminología de juego, varía considerablemente entre España y los demás países hispanohablantes.[cita requerida]
+Los jugadores del 1 al 8 (forwards) forman el pack, la "delantera" o "paquete" para realizar el scrum (la melé):
+Primera línea: los jugadores que intentan llevar la pelota a su lado y que están en el choque; su función en los scrums es mantener el scrum estable, los pilares (números 1 y 3) suelen ser los más fuertes y pesados de entre todos los jugadores.
+
+1 - Prop - Pilar izquierdo
+2 - Hooker - Hooker, enganche o talonador
+3 - Prop - Pilar derecho
+Segunda línea: generalmente los jugadores más altos del equipo y que se hacen cargo de empujar en los scrums también suelen ser los encargados de ganar la pelota en los saques desde el lateral. (touche, line-out)
+
+4 - 2nd row - Segunda línea o lock
+5 - 2nd row - Segunda línea o lock
+Tercera línea: los jugadores que mantienen la formación equilibrada para que no se desarme cometiendo una falta.
+
+6 - Flanker - Ala, flanker o wing forward
+7 - Flanker - Ala, flanker o wing forward
+8 - Number 8 - Octavo, tercera centro o número 8
+Línea de tres cuartos o "backs": En los distintos países, estos jugadores reciben diferentes nombres de acuerdo con su propia tradición. Así, en Australia y en Nueva Zelanda el apertura (n.º 10) y el primer centro (n.º 12) se denominan first y second five eights, respectivamente.
+
+9 - Scrum-half - Medio scrum o medio melé
+10 - Fly-half - Apertura o medio apertura
+11 - Left wing - Wing o Wing izquierdo
+12 - Inside center - Primer centro o primer inside
+13 - Outside center - Segundo centro o segundo inside
+14 - Right wing - Wing tres cuartos o ala derecho
+15 - Full back - Fullback, zaguero o arrière
+
+
+=== Rugby 13 o rugby league ===
+
+Desde el siglo XIX existe en Inglaterra una variante cuyas reglas difieren en parte y en la que juegan equipos de 13 jugadores; estos fueron profesionales prácticamente desde la implantación de esa modalidad. A ese juego se lo llamó rugby league, en referencia al campeonato de liga en que se enfrentaban los clubes que remuneraban a sus jugadores. De Inglaterra pasó a algunos países de la esfera cultural y de influencia británica (Australia, Nueva Zelanda), así como a Francia.[cita requerida]
+Rugby League Football o rugby a 13 es un deporte de equipo jugado por dos equipos de 13 jugadores 4 en el banco (reservas). El objetivo fundamental, como en el rugby de a 15, consiste en apoyar un balón en el suelo con las manos sobre o tras la línea de ensayo. Esto se denomina ensayo y tiene un valor, en Rugby League de 4 puntos. Tras el ensayo, el equipo anotador tiene el derecho de patear el balón hacia la portería adversaria, y si consigue pasarlo (transformación) entre los dos palos verticales y por encima del travesaño, anota 2 puntos más. También pueden conseguirse puntos tirando a palos tras un penalti, consistente en tirar a palos durante el juego abierto dejando previamente botar el balón en el suelo. En ambos casos su valor es de 1 punto. El equipo adversario intenta impedir al equipo de ataque realizar este gol obstaculizando al jugador con la pelota.[cita requerida]
+En áreas de Inglaterra donde predomina el rugby a 13 - Yorkshire y el noroeste -, el uso del término rugby se refiere, por lo general, al rugby a 13, a diferencia de la mayor parte del país, donde este término se refiere al Rugby Union o Rugby a 15. En áreas de Australia y Nueva Zelanda donde predomina el Rugby a 13, el juego suele conocerse como league o fútbol. En Francia, el juego se conoce como Rugby à Treize ("rugby a trece", en francés). En Argentina, el nombre adoptado fue rugby 13.[cita requerida]
+Al principio, el rugby a 13 lo jugaba una facción que se escindió de la Federación Inglesa de Rugby (RFU) conocido como la Unión del Norte. Cuando se produjeron también escisiones similares en las federaciones de rugby afiliadas a la RFU en Australia y Nueva Zelanda, en 1907 y 1908 formaron asociaciones conocidas como Rugby Leagues y usaron las reglas de la Unión del Norte modificadas. La Unión del Norte más tarde cambió su nombre por el de la Rugby Football League. Así, el juego se hizo conocido como la Rugby League.[cita requerida]
+
+
+=== Rugby 7 ===
+
+El formato de rugby de 7 (seven-a-side) se juega en torneos cortos (de un día o un fin de semana). Se utiliza el mismo campo que en la modalidad de 15 hombres, pero con solo 7 jugadores por equipo. Las variaciones respecto de las reglas del juego de quince son:
+
+El partido se divide en dos tiempos que duran siete minutos (catorce, en total).
+Las suspensiones por amonestación (tarjeta amarilla) duran dos minutos, en lugar de los diez del rugby de quince jugadores.
+Los scrums se forman con tres jugadores por equipo.
+Las conversiones solo pueden efectuarse por puntapiés de sobre-pique (drop) y en un lapso máximo de 30 segundos posterior al try.
+Después de marcado el tanto, el puntapié de reinicio es efectuado por el equipo que marcó.
+Las infracciones en los puntapiés de inicio y reinicio no están sujetas a opción del equipo no infractor: siempre se castigan con un free kick.[cita requerida]
+Existe un Campeonato del Mundo de Rugby a 7 y un circuito mundial, y fue aceptado como deporte olímpico para las Olimpiadas de 2016.​
+
+
+=== Touch rugby ===
+
+
+== Valores destacados en el rugby ==
+El rugby es un deporte en el que tradicionalmente se ha dado gran importancia a los valores morales. Las normas oficiales del juego están integradas por lo que se denomina "Documento del Juego", orientado a garantizar la conducta ética de todos los involucrados en el juego, "tanto dentro como fuera del campo". Una muestra de la importancia de los valores éticos en el rugby es la disposición referida al espíritu del juego que está incluida en el Documento:
+
+ 
+
+ 
+
+Desde temprana edad, a los jugadores de rugby se les enseñan una serie de cualidades positivas, como son el compañerismo, la honestidad, el respeto, la disciplina, la lealtad, el sacrificio y el altruismo.​
+A diferencia de otros deportes de equipo, en el rugby los jugadores no suelen discutir a los árbitros sus decisiones, ni tratan de engañarlos para sacar partido de sus decisiones.​ Los tantos son necesariamente consecuencia del esfuerzo de todos, por lo que no se producen las celebraciones individuales, tras la consecución de un try (ensayo) o una conversión (transformación), que se producen en otros deportes.
+Al final del partido, los jugadores de ambos equipos confraternizan juntos en el llamado «tercer tiempo», en el que beben y comen juntos por invitación del equipo local.​
+
+
+== IRB-World Rugby ==
+En el marco del cierre de la World Rugby Conference and Exhibition que se celebró en Londres el día 19 de noviembre de 2014, la IRB, la asociación madre del rugby mundial, presentó su nuevo programa de cambio de marca y pasó oficialmente a llamarse World Rugby.[cita requerida]
+En el corazón de la marca hay un posicionamiento distinto, expresado visualmente a través de un logo más moderno y progresista que encarna la misión de World Rugby para hacer crecer el juego en todo el mundo, manteniendo un vínculo con el patrimonio de la organización a través de su combinación de colores azul y verde.[cita requerida]
+El presidente de World Rugby, Bernard Lapasset, dijo: «El rugby ha crecido mucho en los últimos cuatro años, alcanzando una participación global de 6,6 millones de jugadores, impulsado por el éxito comercial de la Rugby World Cup, las estrategias de desarrollo de World Rugby y sus inversiones récord, la fortaleza de las Uniones y el regreso del rugby al Programa Olímpico».[cita requerida]
+El anuncio se realizó en el cierre de una exitosa World Rugby Conference and Exhibition, que reunió a más de 700 delegados de 60 países durante más de dos días en los que participaron de talleres que invitaron a la reflexión y charlas que cubrieron los temas más importantes del rugby actual: el bienestar de jugador, la integridad para el futuro de la Copa del Mundo de Rugby y la realización de un excepcional evento de Rugby Seven en los Juegos Olímpicos de Río de Janeiro 2016.[cita requerida]
+
+
+== Sobrenombres de los equipos ==
+
+
+=== Sobrenombres de las selecciones ===
+Por lo general, y a diferencia de otros deportes, las selecciones nacionales de rugby reciben, además de sus nombres oficiales, apodos afectivos. Algunos de los sobrenombres más conocidos son:
+
+Los Springboks de Sudáfrica: el emblema de la Unión de Rugby de Sudáfrica es un antílope, el Antidorcas marsupialis (en afrikáans, spring=saltar, bok =antílope). El símbolo estaba bastante ligado al período del apartheid y por ello se intentó sustituirlo por la flor de Protea, sin éxito.
+Los All Blacks de Nueva Zelanda: hace referencia a su uniforme totalmente negro. También son conocidos como kiwis, por el pájaro homónimo, muy común en el país. Una leyenda discutida​ sostiene que cuando el equipo neozelandés jugó contra Hartlepool en 1905, un periodista escribió que parecían todos jugadores de la línea ("all backs", con referencia a su manejo de la pelota).
+Los Pumas de Argentina: curiosamente, el emblema es un yaguareté (jaguar), que en una gira por Sudáfrica en 1965 confundieron con un puma.
+La XV de la Rosa de Inglaterra es el emblema de los Lancaster (rosa roja) que llevan los ingleses en la camiseta.
+Los Wallabies de Australia: el wallaby es un pequeño canguro australiano, el emblema de la Unión de Rugby del país.
+Les Bleus de Francia: por el color azul de la camiseta de ese país; también Les tricolores, por la bandera reflejada en su indumentaria (pantalón blanco, medias rojas) y el XV del Gallo (coq), que sirve para el juego de palabras, gallus (gallo, en latín) con gaulois (galo, en francés), emblema de la federación francesa.
+El XV del Trébol (shamrock) de Irlanda: representa a San Patricio, el evangelizador de la isla, y es el símbolo de ambas Irlandas que juegan juntas en la selección.
+La XV del Cardo (thistle) de Escocia: según la tradición, el cardo guardián alertó a las defensas escocesas cuando los daneses intentaban conquistar el país y se pincharon con sus púas. El cardo va acompañado del lema Nemo me impune lacessit (en latín: "Nadie me daña con impunidad").
+Los Red Dragons de Gales: la bandera galesa está formada por dos bandas horizontales, una blanca y otra verde, de las que sobresale un enorme dragón rojo, color además de la camiseta de sus jugadores. Sin embargo, los galeses tienen varios apodos más, como el XV del Puerro (leek), en referencia a la leyenda de los puerros colocados en los cascos galeses para distinguirse en la batalla del enemigo sajón durante el siglo VI. En el emblema galés aparecen tres plumas de avestruz concedidas al Príncipe de Gales en la batalla de Crécy; sin embargo, los galeses las identifican con los puerros. Otro sobrenombre es el de los Mineros, la profesión más habitual de los antiguos jugadores galeses.
+Los Azzurri de Italia, por el color de la camiseta; en los medios británicos se le conoce también como Gladiators.[cita requerida]
+
+
+==== Otros equipos ====
+Los Flying Fijians de Fiyi o fiyianos voladores: por su juego velocísimo, aunque su emblema es una palmera.
+Los Teros de Uruguay: por el ave (Vanellus chilensis) que es típica en su país.
+Los Cóndores de Chile: en referencia al cóndor que aparece en el Escudo de Chile y en la camiseta de la selección.
+Los Canucks de Canadá: de dudoso origen, algunos lo hacen derivar de CAN (Canadá) + UK (United Kingdom), otros hablan de la deformación en francés de Kanada y muchas otras hipótesis, de todas formas para algunos es despectivo. También suelen ser conocidos como Grizzlies, ya que la mayoría son oriundos de la Columbia Británica, donde abunda este oso.
+Los Manu Samoa de Samoa: hace referencia a un antiguo caudillo de la isla.
+Los Ikale Tahi de Tonga: En tongano, las águilas marinas.
+The Eagles de los Estados Unidos: el águila emblema de su federación.
+Los Stejarii de Rumania: robles, por su símbolo la hoja de roble.
+Los Brave Blossoms de Japón, o Cherry Blossoms, de las flores de cerezo de su emblema.
+El XV del león de España: por el león del emblema de la Federación Española de Rugby en las camisetas. También Toros.
+Los Lelos de Georgia: por un antiguo juego georgiano parecido al rugby.
+Os Lobos de Portugal.
+Los Tucanes de Colombia: por el tucán, una de las aves típicas del país.
+Los Welwitschias de Namibia: por la Welwitschia mirabilis, planta del desierto de Namibia.
+Los Sables de Zimbabue: por el antílope sable (Hippotragus niger).
+Les éléphants de Costa de Marfil.
+Els Isards de Andorra: rebeco pirenaico, Rupicapra rupicapra.
+Los Zwarte Duivels de Bélgica: diablos negros.
+The Vultures de Botsuana: los buitres.
+Los Atlas Lions de Marruecos: por el león del Atlas de las montañas marroquíes.
+Los Pukpuks de Papúa Nueva Guinea.
+Los Yacarés de Paraguay: en referencia al yacaré, un reptil aligatórido que habita en regiones tropicales de Sudamérica.
+Los Tumis del Perú: hace referencia al tumi, un cuchillo ceremonial utilizado en el antiguo Perú.
+Los Piqueros de Ecuador: hace referencia a Sula nebouxii, una especie de ave pelecaniforme que habita las Islas Galápagos.
+Los Colorados de Bolivia: hace referencia al histórico regimiento de infantería boliviano Colorados de Bolivia.
+Las Orquídeas: en referencia a la orquídea, flor nacional de Venezuela. Aunque todas las selecciones nacionales deportivas de este país se denominan vinotinto, por ser el color de la camiseta.
+Los Nómades de Kazajistán: en referencia a la antigua tradición de guerreros nómadas de esta nación del Asia Central.
+Las Serpientes de México: en referencia al escudo de su federación, una serpiente bicéfala extraída de un códice prehispánico.
+Los Osos de Rusia.
+Los Tupis de Brasil: en referencia a los pueblos amazónicos que habitaban el territorio antes de la llegada de los europeos.
+Los Quetzales de Guatemala: por el Ave Nacional de Guatemala.
+Los Torogoces de El Salvador: en referencia al ave nacional, el torogoz.
+Los Guarias de Costa Rica: en referencia a la flor nacional, la guaria morada.
+Los Diablos Rojos de Panamá: en referencia al primer club de rugby fundado en Panamá, Los Diablos Rojos Rugby Club.
+
+
+== Juegos Olímpicos ==
+
+El rugby fue incluido como deporte olímpico a iniciativa del Barón Pierre de Coubertin, impulsor de las Olimpiadas modernas, quien había sido árbitro de la final de 1892, entre Stade Français y Racing Club de France. Estuvo presente en los Juegos Olímpicos de París 1900, Londres 1908, Amberes 1920 y París 1924. Las causas de su exclusión fueron la mínima cantidad de países participantes (promedio debajo de 3), el debut de las mujeres en los Juegos Olímpicos de Ámsterdam 1928 y el mayor énfasis del COI en los deportes individuales. En Berlín 1936 se jugó por última vez aunque fue de carácter amistoso.
+
+
+== Véase también ==
+ Portal:Rugby. Contenido relacionado con Rugby.
+Copa del Mundo de Rugby
+World Rugby
+Torneo de las Seis Naciones
+Rugby Championship
+Americas Rugby Championship
+European Nations Cup
+Linao
+Rugby por país
+Rugby en Argentina
+Rugby en Australia
+Rugby en Canadá
+Rugby en Chile
+Rugby en España
+Rugby en Francia
+Rugby en el Reino Unido
+Rugby en Italia
+Rugby en Uruguay
+Rugby en Venezuela
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+«Leyes del juego de Rugby». Sitio oficial de World Rugby. Consultado el 9 de marzo de 2016. 
+Perasso, Sebastián E. (2007). Rugby didáctico. Buenos Aires: Dunken. ISBN 9789870227564. 
+Perasso, Sebastián E. (2009). Rugby didáctico 2 (El entrenador). Buenos Aires: Dunken. ISBN 9789870234227. 
+Perasso, Sebastián E. (2011). Rugby didáctico 3 (Historia y estadística). Buenos Aires: Dunken. ISBN 9789870247012. 
+Perasso, Sebastián E. (2011). Rugby didáctico 4 (Espíritu y filosofía). Buenos Aires: Dunken. ISBN 9789870250524.  (enlace roto disponible en Internet Archive; véase el historial, la primera versión y la última).
+Perasso, Sebastián E. (2011). Rugby didáctico 5 (Preguntas y respuestas). Buenos Aires: Dunken. ISBN 9789870258391. 
+
+
+== Enlaces externos ==
+ Wikimedia Commons alberga una galería multimedia sobre Rugby.
+ Wikinoticias tiene noticias relacionadas con Rugby.
+ Wikcionario  tiene definiciones y otra información sobre rugby.
+Sitio oficial de la World Rugby
