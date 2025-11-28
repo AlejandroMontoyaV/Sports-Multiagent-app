@@ -1,8 +1,9 @@
-from langchain_community.document_loaders import DirectoryLoader, PyPDFLoader
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import os
+
 
 
 def load_documents(folder_path):
@@ -13,7 +14,7 @@ def load_documents(folder_path):
     loader = DirectoryLoader(
         folder_path,
         glob="**/*.txt",
-        loader_cls=PyPDFLoader
+        loader_cls=TextLoader
     )
 
     documentos = loader.load()
