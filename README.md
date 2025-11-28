@@ -14,7 +14,7 @@ Imagina tener a un experto olímpico en tu bolsillo que conoce las reglas, la hi
 
 **Sports-Multiagent-app** no es un simple chatbot. Es un sistema de **Agentic AI** (Inteligencia Artificial Agéntica) que utiliza una arquitectura RAG (Retrieval-Augmented Generation) para consultar una base de datos curada de 100 documentos especializados.
 
-Desde lo más popular como el **Fútbol** ⚽ y el **Baloncesto** 🏀, hasta disciplinas de nicho como el **Kabaddi** 🤼, el **Sepak Takraw** 🦶 y el **Curling** 🥌.
+Desde lo más popular como el **Fútbol** ⚽ y el **Baloncesto** 🏀, hasta disciplinas específicas como el **Kitesurf** 🪁, la **Espeleología deportiva** 🧗 o el **Ultimate Frisbee** 🥏.
 
 ---
 
