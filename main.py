@@ -1,4 +1,4 @@
-from agents.indexer.indexer import (
+from src.agents.indexer.indexer import (
     load_documents,
     clean_documents,
     split_into_chunks,
