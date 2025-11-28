@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Crear índice (si no existe)
-docs = load_documents("data/docs_iniciales")
+docs = load_documents("data/raw_docs")
 docs = clean_documents(docs)
 chunks = split_into_chunks(docs)
 create_faiss_index(chunks, "data/faiss_index")
