@@ -1,1 +1,10 @@
 wikipedia
+langchain 
+langchain-community
+google-generativeai
+pymupdf
+faiss-cpu
+langchain_google_genai
+python-dotenv
+python-telegram-bot==21.0.1
+openai
