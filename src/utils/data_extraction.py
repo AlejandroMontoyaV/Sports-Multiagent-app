@@ -22,13 +22,16 @@ deportes = [
 # Configurar wikipedia
 wikipedia.set_lang("es")
 
-# Crear carpeta
-os.makedirs("data/raw_docs", exist_ok=True)
+path = "data/raw_docs"
 
+# Crear carpeta
+os.makedirs(path, exist_ok=True)
+
+# Descargar y guardar artículos
 for d in deportes:
     try:
         page = wikipedia.page(d)
-        with open(f"data/raw_docs/{d}.txt", "w", encoding="utf-8") as f:
+        with open(f"{path}{d}.txt", "w", encoding="utf-8") as f:
             f.write(page.content)
         print("Guardado:", d)
     except Exception as e:
