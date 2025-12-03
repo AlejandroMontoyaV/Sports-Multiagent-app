@@ -1,5 +1,5 @@
 import os
-from langchain_community.document_loaders import TextLoader
+from langchain_community.document_loaders import TextLoader, DirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -24,15 +24,22 @@ class IndexerAgent:
         """
         self.docs_path = docs_path
         self.faiss_path = faiss_path
-        self.embeddings = GoogleGenerativeAIEmbeddings()
+        self.embeddings = GoogleGenerativeAIEmbeddings(
+            model="models/embedding-001",
+            google_api_key=os.environ["GOOGLE_API_KEY"]
+        )
 
     # Cargar documentos
     def load_documents(self):
-        loader = TextLoader(self.docs_path)
+        loader = DirectoryLoader(
+            self.docs_path,
+            glob="**/*.txt",
+            loader_cls=lambda path: TextLoader(path, encoding="utf-8")
+        )
         documents = loader.load()
         return documents
 
-    # Dividir documentos en chunks de 600 tokens
+    # Dividir documentos en chunks de 1000 tokens
     def split_documents(self, documents):
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=1000,

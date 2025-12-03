@@ -1,29 +1,16 @@
-from src.agents.indexer_agent import (
-    load_documents,
-    clean_documents,
-    split_into_chunks,
-    create_faiss_index,
-    load_faiss_index,
-    search_in_faiss
-)
-
+from src.pipelines.SystemPipeline import SystemPipeline
+# Cargamos las variables de entorno
 from dotenv import load_dotenv
 load_dotenv()
 
-# Crear índice (si no existe)
-docs = load_documents("data/raw_docs")
-docs = clean_documents(docs)
-chunks = split_into_chunks(docs)
-create_faiss_index(chunks, "data/faiss_index")
+if __name__ == "__main__":
+    docs_path = "data/raw_docs"
+    faiss_path = "data/faiss_index"
+    
+    # Creamos el pipeline principal del sistema
+    pipeline = SystemPipeline(docs_path, faiss_path)
 
-# Cargar índice
-vector_store = load_faiss_index("data/faiss_index")
+    # 1. Ejecutamos la indexación
+    pipeline.run_indexing()
 
-# Probar búsqueda
-query = "De qué trata este documento?"
-resultados = search_in_faiss(vector_store, query, k=2)
-
-print("Resultados:")
-for r in resultados:
-    print("-----")
-    print(r.page_content)
+    # 2. Clasificamos la intención (pendiente de implementación)

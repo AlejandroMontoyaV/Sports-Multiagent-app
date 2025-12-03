@@ -1,5 +1,4 @@
 wikipedia
-pymupdf
 faiss-cpu
 python-dotenv
 python-telegram-bot
@@ -9,8 +8,5 @@ langchain
 langchain-core
 langchain-community
 langchain-google-genai
-google-generativeai
+google-generativeai==0.7.0
 langchain-text-splitters
-
-# OpenAI (versión estable)
-openai
