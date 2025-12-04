@@ -20,7 +20,7 @@ def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(MessageHandler(filters.TEXT, mensaje))
 
-    app.run_polling()
+    app.run_polling()   
 
 if __name__ == "__main__":
     main()
