@@ -39,3 +39,8 @@ if __name__ == "__main__":
     # Ejemplo de consulta para recuperación de documentos - Esto se quita luego
     docs = pipeline.run_retrieval(pregunta, use_llm=False)
     print_docs_pretty(docs)
+
+    # Ejemplo de consulta para RAG - Esto se quita luego
+    response = pipeline.run_rag_respose(pregunta, use_llm=False)
+    print("\n--- Respuesta RAG ---")
+    print(response)

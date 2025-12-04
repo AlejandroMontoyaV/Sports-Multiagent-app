@@ -1,6 +1,7 @@
 from src.agents.indexer_agent import IndexerAgent
 from src.agents.classifier_agent import ClassifierAgent
 from src.agents.retriever_agent import RetrieverAgent
+from src.agents.rag_agent import RagAgent
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 import os
 
@@ -21,7 +22,8 @@ class SystemPipeline:
         # Inicializar agentes
         self.indexer_agent = IndexerAgent(docs_path, faiss_path, self.embeddings)
         self.classifier_agent = ClassifierAgent(llm)
-        self.retriever_agent = RetrieverAgent(faiss_path, llm, self.embeddings, k=5)
+        self.retriever_agent = RetrieverAgent(faiss_path, llm, self.embeddings, k=10)
+        self.rag_agent = RagAgent(self.retriever_agent, llm)
 
     # Ejecutar la indexación
     def run_indexing(self):
@@ -39,5 +41,9 @@ class SystemPipeline:
     def run_retrieval(self, query: str, use_llm: bool = True):
         documents = self.retriever_agent.retrieve_documents(query, use_llm)
         return documents
+    
+    def run_rag_respose(self, query: str, use_llm: bool = True):
+        response = self.rag_agent.generate_response(query)
+        return response
 
     
