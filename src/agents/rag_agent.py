@@ -77,4 +77,7 @@ class RagAgent:
             "question": query,
         })
         response = self.llm.invoke(messages)
-        return response.content.strip()
+        return {
+            "answer": response.content.strip(),
+            "context": context,
+        }

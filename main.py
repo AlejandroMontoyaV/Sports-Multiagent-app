@@ -42,5 +42,18 @@ if __name__ == "__main__":
 
     # Ejemplo de consulta para RAG - Esto se quita luego
     response = pipeline.run_rag_respose(pregunta, use_llm=False)
+
+    print("\n--- Contexto RAG ---")
+    print(response["context"])
     print("\n--- Respuesta RAG ---")
-    print(response)
+    print(response["answer"])
+    
+    # Ejemplo de evaluación de respuesta - Esto se quita luego
+    evaluation = pipeline.run_evaluation(
+        pregunta,
+        response["context"],
+        response["answer"],
+    )
+    print("\n--- Evaluación de la respuesta ---")
+    print("Veredicto: ",evaluation["veredicto"])
+    print("\nExplicacion: ",evaluation["explicacion"])
