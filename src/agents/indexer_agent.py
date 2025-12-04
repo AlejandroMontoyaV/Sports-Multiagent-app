@@ -16,7 +16,7 @@ class IndexerAgent:
     """
 
     # Constructor
-    def __init__(self, docs_path: str, faiss_path: str):
+    def __init__(self, docs_path: str, faiss_path: str, embeddings):
         """
         Parámetros:
         - raw_docs_path: Carpeta donde están los .txt
@@ -24,10 +24,7 @@ class IndexerAgent:
         """
         self.docs_path = docs_path
         self.faiss_path = faiss_path
-        self.embeddings = GoogleGenerativeAIEmbeddings(
-            model="models/embedding-001",
-            google_api_key=os.environ["GOOGLE_API_KEY"]
-        )
+        self.embeddings = embeddings
 
     # Cargar documentos
     def load_documents(self):

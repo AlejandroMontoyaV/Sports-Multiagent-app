@@ -32,11 +32,12 @@ class ClassifierAgent:
         """
         self.llm = llm
 
+    # Construir mensajes para el LLM
     def build_messages(self, query: str):
         # Definir el prompt del sistema
         system_prompt = f"""
             Eres un clasificador de intención de consultas para un asistente
-            sobre clima y cambio climático.
+            sobre deportes.
 
             Tu tarea es leer la consulta del usuario y clasificarla EXACTAMENTE
             en UNA de estas categorías:
