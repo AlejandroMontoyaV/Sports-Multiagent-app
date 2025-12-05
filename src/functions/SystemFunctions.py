@@ -40,7 +40,7 @@ class SystemFunctions:
     # Ejecutar la clasificación de intención
     def run_classification(self, query: str):
         intent = self.classifier_agent.classify_intent(query)
-        print(f"Intención clasificada: {intent}")
+        #print(f"Intención clasificada: {intent}")
         return intent
 
     # Ejecutar la recuperación de documentos

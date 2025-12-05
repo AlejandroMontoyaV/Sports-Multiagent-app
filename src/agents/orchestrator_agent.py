@@ -81,10 +81,14 @@ class OrchestratorAgent:
         result = self.executor.invoke({"input": query})
         pasos = result.get("intermediate_steps", [])
 
-        print("\n🔍 Pasos intermedios:")
+        # Construimos la respuesta final para mandar a telegram
+        lineas = ["----Trazabilidad----\n"]
         for paso in pasos:
             tool_call, tool_output = paso
-            print(f"- Tool: {tool_call.tool}, args: {tool_call.tool_input}")
-            print(f"  Output: {tool_output}\n")
+            lineas.append(f"- Tool: {tool_call.tool}")
         
-        return result.get("output", "")
+        pasos_str = "\n".join(lineas)
+        respuesta = result.get("output", "")
+        respuesta_final = f"""{pasos_str}\n\n----Respuesta al usuario----\n\n{respuesta}"""
+        return respuesta_final
+    
