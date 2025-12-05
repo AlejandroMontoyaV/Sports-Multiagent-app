@@ -1,7 +1,6 @@
-from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 from langchain_community.vectorstores import FAISS
 from langchain_core.language_models.chat_models import BaseChatModel
-import os
+
 
 
 class RetrieverAgent:

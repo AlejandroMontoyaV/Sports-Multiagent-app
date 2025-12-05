@@ -1,5 +1,9 @@
-from src.pipelines.SystemPipeline import SystemPipeline
+from src.functions.SystemFunctions import SystemFunctions
+from langchain_google_genai import ChatGoogleGenerativeAI
+from src.agents.orchestrator_agent import OrchestratorAgent
+from src.tools.SystemTools import build_functions_tools
 from src.bot.telegram_bot import main as run_telegram_bot
+import os
 
 # Cargamos las variables de entorno
 from dotenv import load_dotenv
@@ -25,35 +29,55 @@ if __name__ == "__main__":
     docs_path = "data/raw_docs"
     faiss_path = "data/faiss_index"
 
-    ## AQUI SOLO DEBERIA IR EL ORQUESTADOR Y EL BOT ##
-    # Inicializamos el bot
-    #run_telegram_bot()
+    # ## AQUI SOLO DEBERIA IR EL ORQUESTADOR Y EL BOT ##
+    # # Inicializamos el bot
+    # #run_telegram_bot()
     
-    # Creamos el pipeline principal del sistema - Esto se quita luego
-    pipeline = SystemPipeline(docs_path, faiss_path)
+    # # Creamos el functions principal del sistema - Esto se quita luego
+    # functions = SystemFunctions(docs_path, faiss_path)
 
-    # Ejemplo de consulta para clasificación de intención- Esto se quita luego
-    pregunta = "Como se compara el ajedrez con el futbol?"
-    pipeline.run_classification(pregunta)
+    # # Ejemplo de consulta para clasificación de intención- Esto se quita luego
+    # pregunta = "Como se compara el ajedrez con el futbol?"
+    # functions.run_classification(pregunta)
 
-    # Ejemplo de consulta para recuperación de documentos - Esto se quita luego
-    docs = pipeline.run_retrieval(pregunta, use_llm=False)
-    print_docs_pretty(docs)
+    # # Ejemplo de consulta para recuperación de documentos - Esto se quita luego
+    # docs = functions.run_retrieval(pregunta, use_llm=False)
+    # print_docs_pretty(docs)
 
-    # Ejemplo de consulta para RAG - Esto se quita luego
-    response = pipeline.run_rag_respose(pregunta, use_llm=False)
+    # # Ejemplo de consulta para RAG - Esto se quita luego
+    # response = functions.run_rag_respose(pregunta, use_llm=False)
 
-    print("\n--- Contexto RAG ---")
-    print(response["context"])
-    print("\n--- Respuesta RAG ---")
-    print(response["answer"])
+    # print("\n--- Contexto RAG ---")
+    # print(response["context"])
+    # print("\n--- Respuesta RAG ---")
+    # print(response["answer"])
     
-    # Ejemplo de evaluación de respuesta - Esto se quita luego
-    evaluation = pipeline.run_evaluation(
-        pregunta,
-        response["context"],
-        response["answer"],
+    # # Ejemplo de evaluación de respuesta - Esto se quita luego
+    # evaluation = functions.run_evaluation(
+    #     pregunta,
+    #     response["context"],
+    #     response["answer"],
+    # )
+    # print("\n--- Evaluación de la respuesta ---")
+    # print("Veredicto: ",evaluation["veredicto"])
+    # print("\nExplicacion: ",evaluation["explicacion"])
+    # LLM para el orquestador (puede ser el mismo modelo que ya usas)
+    llm_orchestrator = ChatGoogleGenerativeAI(
+        model="gemini-2.5-flash",
+        google_api_key=os.environ["GOOGLE_API_KEY"],
+        temperature=0.0,
     )
-    print("\n--- Evaluación de la respuesta ---")
-    print("Veredicto: ",evaluation["veredicto"])
-    print("\nExplicacion: ",evaluation["explicacion"])
+    functions = SystemFunctions(docs_path, faiss_path)
+
+    # Lista de tools disponibles
+    tools = build_functions_tools(functions)
+
+    # Crear el agente orquestador
+    orchestrator = OrchestratorAgent(llm_orchestrator, tools)
+
+    # Ejemplo de uso
+    pregunta = "¿Qué es el fútbol y en qué se diferencia del béisbol?"
+    respuesta = orchestrator.run(pregunta)
+
+    print("\nRespuesta final del orquestador:\n")
+    print(respuesta)

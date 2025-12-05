@@ -2,6 +2,7 @@ from langchain_core.language_models.chat_models import BaseChatModel
 from src.agents.retriever_agent import RetrieverAgent
 from langchain_core.prompts import ChatPromptTemplate
 from pathlib import Path
+from typing import Dict
 
 class RagAgent:
     """
@@ -70,7 +71,7 @@ class RagAgent:
     """)
 
     # Generar respuesta basada en documentos recuperados
-    def generate_response(self, query: str) -> str:
+    def generate_response(self, query: str) -> Dict[str, str]:
         context = self.get_context(query, use_llm=False)
         messages = self.prompt_template.invoke({
             "context": context,

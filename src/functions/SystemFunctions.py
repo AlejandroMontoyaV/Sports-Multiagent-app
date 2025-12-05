@@ -6,8 +6,10 @@ from src.agents.evaluator_agent import EvaluatorAgent
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 import os
 
-# TODA ESTA VAINA SE VA A CONVERTIR EN TOOLS
-class SystemPipeline:
+
+# AQUI SE INICIALIZAN LOS AGENTE
+#ESTA TODo CENTRALIZADO
+class SystemFunctions:
     # Constructor
     def __init__(self, docs_path: str, faiss_path: str):
         
@@ -42,12 +44,12 @@ class SystemPipeline:
         return intent
 
     # Ejecutar la recuperación de documentos
-    def run_retrieval(self, query: str, use_llm: bool = True):
+    def run_retrieval(self, query: str, use_llm: bool = False):
         documents = self.retriever_agent.retrieve_documents(query, use_llm)
         return documents
     
     # Ejecutar la generación de respuesta RAG
-    def run_rag_respose(self, query: str, use_llm: bool = True):
+    def run_rag_respose(self, query: str, use_llm: bool = False):
         result = self.rag_agent.generate_response(query)
         return result
     
