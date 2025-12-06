@@ -1,5 +1,6 @@
 from langchain_community.vectorstores import FAISS
 from langchain_core.language_models.chat_models import BaseChatModel
+import os
 
 
 
@@ -22,12 +23,18 @@ class RetrieverAgent:
         self.k = k
         self.embeddings = embeddings
         self.llm = llm
+
+        index_file = os.path.join(faiss_path, "index.faiss")
+        store_file = os.path.join(faiss_path, "index.pkl")
         
-        self.vector_store = FAISS.load_local(
-            self.faiss_path, 
-            self.embeddings,
-            allow_dangerous_deserialization=True,
-        )
+        if os.path.exists(index_file) and os.path.exists(store_file):
+            self.vector_store = FAISS.load_local(
+                self.faiss_path, 
+                self.embeddings,
+                allow_dangerous_deserialization=True,
+            )
+        else:
+            self.vector_store = None
 
     # Función que usa un LLM para mejorar la velocidad de recuperación
     def rewrite_query(self, query: str) -> str:

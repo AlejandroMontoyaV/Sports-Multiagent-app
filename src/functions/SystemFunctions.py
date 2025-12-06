@@ -32,9 +32,9 @@ class SystemFunctions:
         self.evaluator_agent = EvaluatorAgent(llm)
 
     # Ejecutar la indexación
-    def run_indexing(self):
+    def run_indexing(self,  new_doc_path: str | None = None):
         print("Iniciando el proceso de indexación...")
-        self.indexer_agent.run()
+        self.indexer_agent.run(new_doc_path=new_doc_path)
         print("Indexación completada.")
 
     # Ejecutar la clasificación de intención

@@ -2,6 +2,7 @@ wikipedia
 faiss-cpu
 python-dotenv
 python-telegram-bot
+PyMuPDF
 
 # LangChain stack compatible con Google GenAI
 langchain

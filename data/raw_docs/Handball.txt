@@ -136,12 +136,12 @@ El ente rector del balonmano a nivel internacional es la Federación Internacion
 
 Debido al constante crecimiento de la IHF, se han creado a lo largo de la historia seis federaciones regionales, cuyos objetivos son similares a los de la IHF. Las mismas están encargadas de coordinar todos los aspectos del deporte en cada región.
 A continuación se detallan los nombres completos traducidos al español, las siglas en su idioma oficial y la zona de influencia de cada una de las seis federaciones:
-     Federación Asiática de Balonmano (AHF) en Asia.
-     Confederación Africana de Balonmano (CAHB) en África.
-     Confederación de Balonmano de América del Norte y el Caribe	 (NACHC) en América del Norte.
-     Confederación Sur y Centro Americana de Balonmano (COSCABAL) en América del Sur.
-     Federación de Balonmano de Oceanía (OHF) en Oceanía.
-     Federación Europea de Balonmano (EHF) en Europa.
+ color #FC0FC0 Federación Asiática de Balonmano (AHF) en Asia.
+ color #FF8C00 Confederación Africana de Balonmano (CAHB) en África.
+ color #00FF7F Confederación de Balonmano de América del Norte y el Caribe	 (NACHC) en América del Norte.
+ color #FF0000 Confederación Sur y Centro Americana de Balonmano (COSCABAL) en América del Sur.
+ color yellow Federación de Balonmano de Oceanía (OHF) en Oceanía.
+ color #4169E1 Federación Europea de Balonmano (EHF) en Europa.
 A su vez, dentro de cada federación hay asociaciones de balonmano, las cuales representan a un país y, en algunas ocasiones, un territorio o estado no reconocido internacionalmente. Salvo casos excepcionales, hay una sola asociación por país o territorio, y en caso de existir más de una, solamente una puede estar afiliada a su federación. En algunos casos, la asociación principal del país tiene afiliadas otras sub-asociaciones para ayudar en la organización del balonmano. Cada asociación organiza el balonmano de su país independientemente de su federación, pero en algunos casos, por ejemplo para clasificar clubes a torneos internacionales, dichos clubes deben estar avalados por la asociación ante la federación.
 
 
