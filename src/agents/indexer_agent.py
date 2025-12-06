@@ -3,6 +3,7 @@ from langchain_community.document_loaders import TextLoader, DirectoryLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import FAISS
+from utils.data_extraction import base_documents
 
 
 class IndexerAgent:
@@ -53,6 +54,28 @@ class IndexerAgent:
 
     # Ejecutar el agente
     def run(self):
-        documents = self.load_documents()
-        texts = self.split_documents(documents)
-        self.create_index(texts)
+        # Si el indice no existe, crearlo
+        if not os.listdir(self.faiss_path):
+            # Genera los 100  documentos base desde wikipedia
+            base_documents(self.docs_path)
+
+            # Cargar y procesar documentos
+            documents = self.load_documents()
+            texts = self.split_documents(documents)
+            self.create_index(texts)
+            return
+        
+        # Si ya existe el faiss, modificarlo
+        else:
+            # Cargar documentos nuevos
+            documents = self.load_documents()
+            # Crear chunks
+            texts = self.split_documents(documents)
+            # Cargar índice existente
+            vector_store = FAISS.load_local(self.faiss_path, self.embeddings)
+            # Añadir nuevos documentos
+            vector_store.add_documents(texts)
+            # Guardar el índice actualizado
+            vector_store.save_local(self.faiss_path)
+            return
+        

@@ -18,21 +18,22 @@ deportes = [
 "Floorball","Kickboxing","Muay thai","Savate","Capoeira","Espeleología deportiva","Paddle surf",
 "Regata de vela","Windsurf slalom","Soft-tennis","Cricket Twenty20","Curling"
 ]
+def base_documents(path: str = "data/raw_docs/"):
+    """
+    Descarga artículos de Wikipedia sobre deportes y los guarda como archivos de texto.
+    """
+    # Configurar wikipedia
+    wikipedia.set_lang("es")
 
-# Configurar wikipedia
-wikipedia.set_lang("es")
+    # Crear carpeta
+    os.makedirs(path, exist_ok=True)
 
-path = "data/raw_docs"
-
-# Crear carpeta
-os.makedirs(path, exist_ok=True)
-
-# Descargar y guardar artículos
-for d in deportes:
-    try:
-        page = wikipedia.page(d)
-        with open(f"{path}{d}.txt", "w", encoding="utf-8") as f:
-            f.write(page.content)
-        print("Guardado:", d)
-    except Exception as e:
-        print("No encontrado:", d, "| Error:", e)
+    # Descargar y guardar artículos
+    for d in deportes:
+        try:
+            page = wikipedia.page(d)
+            with open(f"{path}{d}.txt", "w", encoding="utf-8") as f:
+                f.write(page.content)
+            print("Guardado:", d)
+        except Exception as e:
+            print("No encontrado:", d, "| Error:", e)
