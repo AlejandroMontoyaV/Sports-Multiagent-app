@@ -1,0 +1,13 @@
+Drakobol es un deporte aéreo jugado sobre dragones domesticados. Dos equipos de cinco 
+jinetes vuelan dentro de una arena flotante circular. El objetivo es capturar la Esfera Ígnea, una 
+bola luminosa que cambia de tamaño y peso al azar, y llevarla al Anillo Solar del equipo 
+contrario. 
+Los dragones pueden usar tres habilidades limitadas: un aleteo de impulso, una llamarada 
+suave para desviar proyectiles y un rugido sónico para desestabilizar a rivales, pero nunca 
+para herir. Los jinetes, equipados con arneses anticaída, deben coordinarse para mantener el 
+control mientras esquivan remolinos mágicos que aparecen cada cierto tiempo. 
+Un partido dura tres rondas de diez minutos. Cada anotación vale tres puntos, pero si la Esfera 
+Ígnea está en su fase “ardiente” (emite chispas rojas), la anotación vale cinco. Gana el equipo 
+con más puntos, o el primero en realizar una Vueta Dracónica, una jugada perfecta donde 
+todos los dragones del equipo giran en espiral sincronizada alrededor del Anillo Solar. 
+ 
