@@ -24,18 +24,23 @@ class RetrieverAgent:
         self.embeddings = embeddings
         self.llm = llm
 
-        index_file = os.path.join(faiss_path, "index.faiss")
-        store_file = os.path.join(faiss_path, "index.pkl")
-        
+    # Cargar el índice FAISS al iniciar el agente
+    def _load_vector_store(self):
+        """
+        Carga el índice FAISS desde disco.
+        Se llama en cada búsqueda para que siempre use la versión actualizada.
+        """
+        index_file = os.path.join(self.faiss_path, "index.faiss")
+        store_file = os.path.join(self.faiss_path, "index.pkl")
+
         if os.path.exists(index_file) and os.path.exists(store_file):
-            self.vector_store = FAISS.load_local(
-                self.faiss_path, 
+            return FAISS.load_local(
+                self.faiss_path,
                 self.embeddings,
                 allow_dangerous_deserialization=True,
             )
         else:
-            self.vector_store = None
-
+            return None
     # Función que usa un LLM para mejorar la velocidad de recuperación
     def rewrite_query(self, query: str) -> str:
         """
@@ -57,8 +62,15 @@ class RetrieverAgent:
 
     # Recuperar documentos relevantes
     def retrieve_documents(self, query: str, use_llm: bool = True):
+        #Cargar SIEMPRE el índice desde disco
+        vector_store = self._load_vector_store()
+        if vector_store is None:
+            raise RuntimeError(
+                "El índice FAISS no está disponible. Asegúrate de haber indexado documentos."
+            )
+
         # Si se indica, reescribir la consulta con el LLM
         search_query = self.rewrite_query(query) if use_llm else query
 
-        docs = self.vector_store.similarity_search(search_query, self.k)
+        docs = vector_store.similarity_search(search_query, self.k)
         return docs
