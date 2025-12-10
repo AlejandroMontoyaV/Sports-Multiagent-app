@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 ¿De qué va este proyecto?
+## ¿De qué va este proyecto?
 
 Esta aplicación implementa un **sistema multi-agente** que actúa como una *enciclopedia deportiva inteligente*.
 
@@ -25,7 +25,7 @@ Bot de Telegram: **[@AgenticIALangchain_bot](https://t.me/AgenticIALangchain_bot
 
 ---
 
-## 🧩 Arquitectura de Agentes
+## Arquitectura de Agentes
 
 El sistema está organizado en varios agentes especializados:
 
@@ -83,7 +83,7 @@ El sistema está organizado en varios agentes especializados:
 
 ---
 
-## 🧱 Estructura de Carpetas
+## Estructura de Carpetas
 
 ```bash
 .
@@ -117,3 +117,27 @@ El sistema está organizado en varios agentes especializados:
 ├─ main.py                      # Punto de entrada del proyecto
 ├─ requirements.txt
 └─ README.md
+```
+---
+## Primer uso -  Desde la raiz del repositorio
+  1. Crear ambiente para instalar dependencias
+
+  ```bash
+  python -m venv .venv (python puede varias a python3 o similares si se usa linux o mac)
+  .venv\Scripts\activate
+  ```
+
+  2. Instalar dependencias
+   ```bash
+  pip install -r requirements.txt
+  ```
+
+  3. Prender el bot
+  ```bash
+  python main.py
+  ```
+  4. Iniciar el bot
+  Desde telegram, escribir /start a @AgenticIALangchain_bot
+
+  5. Preguntarle al bot 
+  
