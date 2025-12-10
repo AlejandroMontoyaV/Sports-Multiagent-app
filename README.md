@@ -132,12 +132,14 @@ El sistema está organizado en varios agentes especializados:
   pip install -r requirements.txt
   ```
 
-  3. Prender el bot
+  3. Establecer los parametro del .env (TELEGRAM_TOKEN y GOOGLE_API_KEY)
+
+  4. Prender el bot
   ```bash
   python main.py
   ```
-  4. Iniciar el bot
+  5. Iniciar el bot
   Desde telegram, escribir /start a @AgenticIALangchain_bot
 
-  5. Preguntarle al bot 
+  6. Preguntarle al bot 
   
