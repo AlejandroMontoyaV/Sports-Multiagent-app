@@ -1,50 +1,119 @@
-# 🏟️ Sports-Multiagent-App
+# Sports-Multiagent-App
 > **La Enciclopedia Deportiva Inteligente impulsada por Agentes Autónomos.**
 
 [![LangChain](https://img.shields.io/badge/AI-LangChain_1.0-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.langchain.com/)
 [![Architecture](https://img.shields.io/badge/Architecture-Multi--Agent-orange?style=for-the-badge)]()
-[![Knowledge Base](https://img.shields.io/badge/Knowledge-100_Sports-success?style=for-the-badge&logo=googledocs&logoColor=white)]()
+[![Knowledge Base](https://img.shields.io/badge/Knowledge-100%2B_Artículos_Deportivos-success?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Game_Ready-ff0000?style=for-the-badge)]()
 
 ---
 
-## ⚡ ¿De qué trata?
+## 🧠 ¿De qué va este proyecto?
 
-Imagina tener a un experto olímpico en tu bolsillo que conoce las reglas, la historia y los detalles técnicos de **100 deportes diferentes**.
+Esta aplicación implementa un **sistema multi-agente** que actúa como una *enciclopedia deportiva inteligente*.
 
-**Sports-Multiagent-app** no es un simple chatbot. Es un sistema de **Agentic AI** (Inteligencia Artificial Agéntica) que utiliza una arquitectura RAG (Retrieval-Augmented Generation) para consultar una base de datos curada de 100 documentos especializados.
+- Usa **LangChain 1.x** y **Gemini (Google Generative AI)**.
+- Indexa documentos de deportes (fútbol, béisbol, ajedrez, etc.) en un índice vectorial **FAISS**.
+- Expone un **bot de Telegram** que:
+  - Recibe preguntas en lenguaje natural.
+  - Recupera los fragmentos más relevantes.
+  - Genera respuestas con **RAG** (Retrieval-Augmented Generation) con citas.
+  - Permite **subir nuevos .txt o .pdf** para ampliar la base de conocimiento en caliente.
 
-Desde lo más popular como el **Fútbol** ⚽ y el **Baloncesto** 🏀, hasta disciplinas específicas como el **Kitesurf** 🪁, la **Espeleología deportiva** 🧗 o el **Ultimate Frisbee** 🥏.
-
----
-
-## 🧠 La Arquitectura: "El Equipo"
-
-El sistema funciona como un cuerpo técnico deportivo, donde diferentes agentes colaboran para dar la respuesta perfecta.
-
-| Agente (Rol) | Misión | Tecnología |
-| :--- | :--- | :--- |
-| **👮 El Árbitro (Router)** | Analiza la pregunta del usuario e identifica de qué deporte se está hablando. Redirige el flujo al documento correcto. | `LangChain RouterChain` |
-| **🕵️ El Scout (Retriever)** | Busca en la base de datos vectorial (VectorStore) la información exacta dentro del documento específico (ej: `Sumo.txt`). | `ChromaDB` / `FAISS` |
-| **🎙️ El Comentarista (Answerer)** | Toma la información cruda y genera una respuesta natural, educativa y precisa para el usuario. | `OpenAI GPT-4` / `Llama 3` |
+Bot de Telegram: **[@AgenticIALangchain_bot](https://t.me/AgenticIALangchain_bot)**  
+*(primero debes ejecutar el proyecto en tu máquina)*
 
 ---
 
-## 📚 El Dataset: "The 100 Challenge"
+## 🧩 Arquitectura de Agentes
 
-El corazón de este proyecto es su base de conocimiento. Hemos recopilado y procesado **100 documentos de texto plano**, cada uno dedicado exclusivamente a un deporte.
+El sistema está organizado en varios agentes especializados:
 
-> **¿Por qué 100 documentos separados?**
-> Para garantizar la **precisión**. Al aislar el contexto de cada deporte, evitamos que el agente confunda las reglas del *Rugby* con las del *Fútbol Americano*.
+### 1. `IndexerAgent`
+- Consume documentos `.txt` desde `data/raw_docs`.
+- Los divide en *chunks* con `RecursiveCharacterTextSplitter`.
+- Genera embeddings (Gemini) y construye/actualiza el índice **FAISS**.
+- Soporta:
+  - Creación inicial del índice.
+  - Actualización incremental cuando se añade un nuevo documento.
 
-### 📂 Estructura del Conocimiento (`/data`)
-```text
-data/
- ├── 🏹 Archery.txt
- ├── 🏸 Badminton.txt
- ├── 🏏 Cricket.txt
- ├── ...
- ├── 🥋 Judo.txt
- ├── 🏄 Surfing.txt
- └── 🧘 Yoga.txt
- (Total: 100 archivos)
+### 2. `ClassifierAgent`
+- Clasifica la **intención** de la consulta del usuario usando el LLM.
+- Categorías de ejemplo: `busqueda`, `resumen`, `comparacion`, `general`.
+- Devuelve un JSON con:
+  - `category`
+  - `reason` (explicación breve)
+
+### 3. `RetrieverAgent`
+- Carga el índice FAISS desde disco en cada consulta.
+- Ejecuta **búsqueda de similitud semántica**.
+- Puede opcionalmente reescribir la query con el LLM (`rewrite_query`) para optimizar la recuperación.
+
+### 4. `RagAgent`
+- Combina:
+  - la **pregunta del usuario**, y
+  - los **fragmentos recuperados** por el `RetrieverAgent`.
+- Construye un contexto numerado `[1], [2], ...` con el origen de cada fragmento.
+- Usa un `ChatPromptTemplate` para forzar:
+  - respuesta en español,
+  - uso exclusivo del contexto,
+  - citas tipo `[n]` en la respuesta.
+
+### 5. `EvaluatorAgent`
+- Evalúa la respuesta generada por el RAG:
+  - ¿Está respaldada por el contexto?
+  - ¿Es coherente y clara?
+  - ¿Responde a la pregunta?
+- Devuelve un JSON con:
+  - `veredicto`: `"APROBAR"` o `"RECHAZAR"`,
+  - `explicacion`: breve justificación.
+
+### 6. `OrchestratorAgent`
+- Agente principal que **orquesta** el flujo usando *tools* de LangChain:
+  - `index_documents`
+  - `classify_query`
+  - `retrieve_documents`
+  - `answer_with_rag`
+  - `evaluate_answer`
+- Decide cuándo llamar a cada tool y genera la **respuesta final** al usuario.
+
+### 7. `SystemFunctions` + `SystemTools`
+- `SystemFunctions`: clase que centraliza las operaciones de alto nivel (indexar, clasificar, recuperar, responder, evaluar) usando los agentes internos.
+- `SystemTools`: convierte esas funciones en **tools LangChain** para que el `OrchestratorAgent` pueda invocarlas de forma autónoma.
+
+---
+
+## 🧱 Estructura de Carpetas
+
+```bash
+.
+├─ data/
+│  ├─ raw_docs/        # Documentos base en TXT (y nuevos TXT tras conversión)
+│  ├─ new_docs/        # Archivos recién subidos por Telegram (PDF/TXT temporales)
+│  └─ faiss_index/     # Índice FAISS (index.faiss + index.pkl)
+│
+├─ src/
+│  ├─ agents/
+│  │  ├─ indexer_agent.py
+│  │  ├─ classifier_agent.py
+│  │  ├─ retriever_agent.py
+│  │  ├─ rag_agent.py
+│  │  ├─ evaluator_agent.py
+│  │  └─ orchestrator_agent.py
+│  │
+│  ├─ bot/
+│  │  └─ telegram_bot.py        # Lógica del bot de Telegram
+│  │
+│  ├─ functions/
+│  │  └─ SystemFunctions.py     # Puente entre agentes y tools
+│  │
+│  ├─ tools/
+│  │  └─ SystemTools.py         # Definición de tools para LangChain
+│  │
+│  └─ utils/
+│     ├─ data_extraction.py     # Descarga/creación de documentos base
+│     └─ pdf_to_text.py         # Conversión PDF → TXT y movimiento de archivos
+│
+├─ main.py                      # Punto de entrada del proyecto
+├─ requirements.txt
+└─ README.md
